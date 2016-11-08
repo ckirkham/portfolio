@@ -17,3 +17,8 @@ github_username:  ckirkham
 
 # Build settings
 markdown: kramdown
+
+collections:
+    projects:
+        output: true
+        permalink: /projects/:path/
