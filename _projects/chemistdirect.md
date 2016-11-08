@@ -1,7 +1,7 @@
 ---
-layout: post
-date:   2016-07-23 23:19:56 +0100
 title: Chemist Direct
+date: 2016-07-23 22:19:56 Z
+layout: post
 ---
 
 <div id="project-page" class="cd-banner banner" data-0="background-position: 0px 0px;" data-100000="background-position:0px 50000px;">

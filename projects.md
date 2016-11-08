@@ -1,6 +1,10 @@
 ---
 title: Projects
+<<<<<<< HEAD
 permalink: "/projects/"
+=======
+permalink: "/projects"
+>>>>>>> 88802c035caa5019063a8a284cc7119b20901640
 layout: page
 ---
 

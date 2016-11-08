@@ -5,19 +5,20 @@ collections:
   posts:
     title: Posts
     output: true
+  projects:
+    title: Projects
+    output: true
+    permalink: "/projects/:path/"
   uploads:
     title: Uploads
     output: true
 email: cfkirkham@gmail.com
-description: |
-  Interaction UX Designer & Front-end Developer, crafting beautiful products that can be used fluidly on appropriate platforms.
+description: 'Interaction UX Designer & Front-end Developer, crafting beautiful products
+  that can be used fluidly on appropriate platforms.
+
+'
 baseurl: ''
 url: http://ckirkham.com
 twitter_username: chris_kirkham
 github_username: ckirkham
 markdown: kramdown
-
-collections:
-    projects:
-        output: true
-        permalink: /projects/:path/
