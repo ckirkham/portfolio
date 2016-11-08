@@ -1,6 +1,7 @@
 ---
-layout: default
 title: Meerkat App
+date: 2014-02-28 00:00:00 Z
+layout: default
 visible: 1
 ---
 
